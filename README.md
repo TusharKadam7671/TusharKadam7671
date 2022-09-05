@@ -3,6 +3,8 @@
 <h3 align="center">A passionate JAVA Back-end Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkadam7671&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkadam7671" /> </p>
+
 
 - 🔭 I’m currently pursuing **JAVA Back-End**
 
