@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
-- 👨‍💻 All of my projects are available at [https://rameshmane.gatsbyjs.io/](https://rameshmane.gatsbyjs.io/)
+
 
 - 💬 Ask me about **JAVA, Javascript**
 
