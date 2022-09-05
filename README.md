@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate JAVA Back-end Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
-- 🔭 I’m currently pursuing **JAVA Back-end**
+- 🔭 I’m currently pursuing **JAVA Back-End**
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
