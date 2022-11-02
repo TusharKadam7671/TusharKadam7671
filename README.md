@@ -46,8 +46,12 @@
   <a href="https://github.com/tusharkadam7671/github-readme-stats"><img alt="tusharkadam7671's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkadam7671&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 <br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TusharKadam7671&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <br/>
 
 <a href="https://github.com/tusharkadam7671/github-readme-activity-graph"><img alt="tusharkadam7671's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tusharkadam7671&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
