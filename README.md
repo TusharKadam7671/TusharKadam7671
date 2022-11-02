@@ -1,23 +1,21 @@
 <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkadam7671&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkadam7671" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate JAVA Back-end Developer from India</h3>
+
 
 <h5 align="center">A passionate Backend developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products. Looking forward to starting the journey as a backend developer.</h5>
 
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
 
-
+<hr color="blue"/>
 
 - 🔭 I’m currently pursuing **JAVA Back-End Development**
-
 - 👯 I’m looking to collaborate on **any awesome projects**
-
-
-
 - 💬 Ask me about **JAVA, Javascript**
-
 - 📫 How to reach me -&gt; drop me a mail at <a href="mailto:kadamtushar080@gmail.com">kadamtushar080@gmail.com</a><br/>
 - ❤️ You can ping me at <a href="https://www.linkedin.com/in/tusharkadam7671/">LinkedIn</a><br/>
 - 👨‍💻 Want to Know about me <a href="https://tusharkadam7671.github.io/">My Portfolio</a><br/>
@@ -31,7 +29,7 @@
 <br/>
 
 
-
+<hr color="blue"/>
 
 ## 📊 My Github Stats
 <div >
@@ -64,6 +62,9 @@
 <img align="center" alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=TusharKadam7671"/>
   
 <br/>
+
+<hr color="blue"/>
+
 ## Connect with me:
 
 <p align="left">
