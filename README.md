@@ -33,37 +33,38 @@
 
 ## 📊 My Github Stats
 <div >
-
   <p align="center">
       <a href="https://github.com/tusharkadam7671/github-readme-streak-stats">
           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tusharkadam7671's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkadam7671&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
       </a>
   </p>
-  
  </div >
+ 
   <br/>
+  
    <p align="center">
     <a href="https://github.com/tusharkadam7671/github-readme-stats"><img alt="tusharkadam7671's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tusharkadam7671&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
+  <p align="center">
   <a href="https://github.com/tusharkadam7671/github-readme-stats"><img alt="tusharkadam7671's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkadam7671&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
 <br/>
 
-
-<br/>
-
-
-
+<p align="center">
 <a href="https://github.com/tusharkadam7671/github-readme-activity-graph"><img alt="tusharkadam7671's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tusharkadam7671&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
+
 <br/>
+   
 ## 🏆 GitHub Trophies
 
 <br/>
-<img align="center" alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=TusharKadam7671"/>
-  
+<img align="center" alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=TusharKadam7671"/> 
 <br/>
 
 <hr color="blue"/>
