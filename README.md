@@ -59,7 +59,7 @@
 <a href="https://github.com/tusharkadam7671/github-readme-activity-graph"><img alt="tusharkadam7671's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tusharkadam7671&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 ## 🏆 GitHub Trophies
-//![](https://github-profile-trophy.vercel.app/?username=TusharKadam7671&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <br/>
 <img align="center" alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=TusharKadam7671"/>
   
