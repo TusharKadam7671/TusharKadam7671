@@ -60,6 +60,10 @@
 <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TusharKadam7671&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
+<img align="center" alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=TusharKadam7671"/>
+  
+<br/>
 ## Connect with me:
 
 <p align="left">
