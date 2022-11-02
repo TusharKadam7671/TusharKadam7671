@@ -14,7 +14,10 @@
 
 - 💬 Ask me about **JAVA, Javascript**
 
-- 📫 How to reach me **kadamtushar080@gmail.com**
+- 📫 How to reach me -&gt; drop me a mail at <a href="mailto:kadamtushar080@gmail.com">kadamtushar080@gmail.com</a><br/>
+❤️ You can ping me at <a href="https://www.linkedin.com/in/tusharkadam7671/">LinkedIn</a><br/>
+👨‍💻 Want to Know about me <a href="https://tusharkadam7671.github.io/">My Portfolio</a><br/>
+📄 Know about my experiences  <a href="https://drive.google.com/file/d/1itptWrAj68-raS4TBNNFEEkiK1T9PgSS/view?usp=share_link">My Resume</a></>
 
 
 
