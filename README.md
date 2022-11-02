@@ -23,7 +23,7 @@
 - 👨‍💻 Want to Know about me <a href="https://tusharkadam7671.github.io/">My Portfolio</a><br/>
 - 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1itptWrAj68-raS4TBNNFEEkiK1T9PgSS/view?usp=share_link">My Resume</a>
 
-
+<hr color="blue"/>
 
 
 # 💻 Tech Stack:
