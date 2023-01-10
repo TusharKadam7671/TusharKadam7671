@@ -1,4 +1,4 @@
-<!--- <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="100%"/> ---!>
+<!-- <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="100%"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkadam7671&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkadam7671" /> </p>
 
@@ -14,11 +14,11 @@
 
 <hr color="blue"/>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**.
 
-- 👯 I’m looking to collaborate on **any awesome projects**
+- 👯 I’m looking to collaborate on **any awesome projects**.
 
-- 💬 Ask me about **JAVA, Spring, Spring Boot**
+- 💬 Ask me about **JAVA, Spring, Spring Boot**.
 
 - 📫 How to reach me -&gt; drop me a mail at <a href="mailto:kadamtushar080@gmail.com">kadamtushar080@gmail.com</a><br/>
 
@@ -33,7 +33,19 @@
 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%23000000.svg?style=for-the-badge&logo=hibernate&logoColor=Toupe)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![GIT](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=red)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![ECLIPSE](https://img.shields.io/badge/eclipse-%23000000.svg?style=for-the-badge&logo=eclipse&logoColor=slategray)
+![VS CODE](https://img.shields.io/badge/vs%20code-%23000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+
+ 
 <br/>
 
 
