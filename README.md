@@ -132,9 +132,24 @@
 
 
 
+<div aling="left">
+  
+ ### ✍️ Some Programming Humor and Random Quote for you  
+<img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
 
-# ✍️ Random Quote
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default) -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+
+
+  </div>
+  
+
+  
+<!--  
+# ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+-->
+
 
 <hr>
