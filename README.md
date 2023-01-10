@@ -9,10 +9,12 @@
 
 <h5 align="center">A passionate Backend developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products. Looking forward to starting the journey as a backend developer.</h5>
 
-
-
-
 <hr color="blue"/>
+
+
+
+
+
 
 - 🌱 I’m currently learning **Spring Boot**.
 
@@ -32,6 +34,12 @@
 <hr color="blue"/>
 
 
+
+
+
+
+
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-%23000000.svg?style=for-the-badge&logo=hibernate&logoColor=Toupe)
@@ -41,9 +49,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![GIT](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=red)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![ECLIPSE](https://img.shields.io/badge/eclipse-%23000000.svg?style=for-the-badge&logo=eclipse&logoColor=slategray)
 ![VS CODE](https://img.shields.io/badge/vs%20code-%23000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
  
 <br/>
@@ -51,7 +59,16 @@
 
 <hr color="blue"/>
 
+
+
+
+
+
+
+
 ## 📊 My Github Stats
+
+<!--
 <div >
   <p align="center">
       <a href="https://github.com/tusharkadam7671/github-readme-streak-stats">
@@ -80,6 +97,18 @@
 </p>
 
 <br/>
+-->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TusharKadam7671&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKadam7671&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKadam7671&theme=tokyonight" align="center" />
+</p>
+   
+   
+   
+   
+   
+   
    
 ## 🏆 GitHub Trophies
 
@@ -89,6 +118,7 @@
 
 <hr color="blue"/>
 
+<!--
 ## Connect with me:
 
 <p align="left">
@@ -97,3 +127,14 @@
 
 
 </p>
+-->
+
+
+
+
+
+# ✍️ Random Quote
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+
+<hr>
