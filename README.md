@@ -102,12 +102,16 @@
 -->
 
 
+
+
+<!--  COMMENTED ON 19-09-2024-------------------------------------------- -->
+<!--
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TusharKadam7671&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKadam7671&theme=tokyonight" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKadam7671&theme=tokyonight" align="center" />
 </p>
-   
+ -->  
    
    
    
